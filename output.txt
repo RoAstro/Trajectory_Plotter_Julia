@@ -1,0 +1,6 @@
+Max Range:             10.204 m     la 45.0°
+Max Height:            5.102  m     la 90.0°
+Max Flight Time:       2.041  s     la 90.0°
+Max TOTAL:             6.082        la 63.4°
+
+julia> 
